@@ -17,7 +17,7 @@ This project involves designing a compact Ultra-Wideband (UWB) MIMO antenna opti
 
 ## 🖼 Screenshots
 
-### Antenna Layout Frontview
+### Antenna Layout frontview
 ![frontview](frontview.png)
 
 ### Antenna Layout bottomview
